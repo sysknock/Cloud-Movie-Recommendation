@@ -1,0 +1,6 @@
+pandas
+pickleshare
+Pillow
+scikit-learn
+scipy
+streamlit
